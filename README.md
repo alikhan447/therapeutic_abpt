@@ -1,5 +1,4 @@
-# therapeutic_NLP (NLP therapeutic alliance between patient and therapist)
-# Leveraging NLP to build a stronger therapeutic alliance between patient and therapist in online psychotherapy 
+# Leveraging NLP to build a stronger therapeutic alliance between patient and therapist in online psychotherapy
 
 Online therapy has seen a significant increase in popularity post the COVID-19 pandemic, making it the preferred option for mental healthcare. Despite therapeutic interventions being pivotal in the mental health domain, it is often challenging to assess. Traditional evaluation methods are reliant on self-reports or expert opinions, both of which can be biased or subjective. Our proposed research is intended to fill the gap between mental health care and data-driven decision-making, contributing to the betterment of mental health services.  Our proposed research is intended to fill the gap between mental health care and data-driven decision-making, contributing to the betterment of mental health service.
 
