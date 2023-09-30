@@ -32,10 +32,10 @@ Column | Header         | Description
 10     | views          | The number of views the answerText received
 
 ## Reference
-[Examining the complexities of measuring effectiveness of online counselling for young people using routine evaluation data](https://www.tandfonline.com/doi/abs/10.1080/02643944.2011.651224)
-[Therapeutic Alliance and Outcome of Psychotherapy: Historical Excursus, Measurements, and Prospects for Research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3198542/)
-[The Alliance in Adult Psychotherapy: A Meta-Analytic Synthesis](https://psycnet.apa.org/fulltext/2018-23951-001.html)
-[Machine Learning and Natural Language Processing in Mental Health: Systematic Review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8132982/)
-[Large-scale Analysis of Counseling Conversations: An Application of Natural Language Processing to Mental Health](https://arxiv.org/abs/1605.04462)
+1. Examining the complexities of measuring effectiveness of online counselling for young people using routine evaluation data. [Link](https://www.tandfonline.com/doi/abs/10.1080/02643944.2011.651224)
+2. Therapeutic Alliance and Outcome of Psychotherapy: Historical Excursus, Measurements, and Prospects for Research. [Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3198542/)
+3. The Alliance in Adult Psychotherapy: A Meta-Analytic Synthesis. [Link](https://psycnet.apa.org/fulltext/2018-23951-001.html)
+4. Machine Learning and Natural Language Processing in Mental Health: Systematic Review. [Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8132982/)
+5. Large-scale Analysis of Counseling Conversations: An Application of Natural Language Processing to Mental Health. [Link](https://arxiv.org/abs/1605.04462)
 
 
