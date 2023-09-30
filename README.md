@@ -1,10 +1,10 @@
-# therapeutic_abpt
+# therapeutic_NLP (NLP therapeutic alliance between patient and therapist)
 # Leveraging NLP to build a stronger therapeutic alliance between patient and therapist in online psychotherapy 
 
 Online therapy has seen a significant increase in popularity post the COVID-19 pandemic, making it the preferred option for mental healthcare. Despite therapeutic interventions being pivotal in the mental health domain, it is often challenging to assess. Traditional evaluation methods are reliant on self-reports or expert opinions, both of which can be biased or subjective. Our proposed research is intended to fill the gap between mental health care and data-driven decision-making, contributing to the betterment of mental health services.  Our proposed research is intended to fill the gap between mental health care and data-driven decision-making, contributing to the betterment of mental health service.
 
 # Contribution and Motivation
-The proposed project is well-situated within existing research yet offers a novel application of NLP techniques. As highlighted above, existing research on the efficacy of psychotherapy is outcome driven. Also, existing work has been limited to analyzing full-length therapy sessions. With online chatting platforms becoming the norm for easy counseling, we aim to focus on driving efficacy for chat-based therapy. We want to focus on ensuring a stronger alliance between the patient and therapist by leveraging NLP to quantify the various pillars of this alliance- **empathy**, **actionability**, **clarity**, **relevance**.
+The [proposed project](https://www.overleaf.com/read/msgfkcfdhmdq) is well-situated within existing research yet offers a novel application of NLP techniques. As highlighted above, existing research on the efficacy of psychotherapy is outcome driven. Also, existing work has been limited to analyzing full-length therapy sessions. With online chatting platforms becoming the norm for easy counseling, we aim to focus on driving efficacy for chat-based therapy. We want to focus on ensuring a stronger alliance between the patient and therapist by leveraging NLP to quantify the various pillars of this alliance- **empathy**, **actionability**, **clarity**, **relevance**.
 
 
 # Dataset Description: 
@@ -30,4 +30,12 @@ Column | Header         | Description
 8      | answerText     | The therapist response to the question
 9      | upvotes        | The number of upvotes the answerText received  
 10     | views          | The number of views the answerText received
+
+## Reference
+[Examining the complexities of measuring effectiveness of online counselling for young people using routine evaluation data](https://www.tandfonline.com/doi/abs/10.1080/02643944.2011.651224)
+[Therapeutic Alliance and Outcome of Psychotherapy: Historical Excursus, Measurements, and Prospects for Research](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3198542/)
+[The Alliance in Adult Psychotherapy: A Meta-Analytic Synthesis](https://psycnet.apa.org/fulltext/2018-23951-001.html)
+[Machine Learning and Natural Language Processing in Mental Health: Systematic Review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8132982/)
+[Large-scale Analysis of Counseling Conversations: An Application of Natural Language Processing to Mental Health](https://arxiv.org/abs/1605.04462)
+
 
