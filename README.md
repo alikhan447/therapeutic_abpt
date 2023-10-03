@@ -2,7 +2,7 @@
 
 Online therapy has seen a significant increase in popularity post the COVID-19 pandemic, making it the preferred option for mental healthcare. Despite therapeutic interventions being pivotal in the mental health domain, it is often challenging to assess. Traditional evaluation methods are reliant on self-reports or expert opinions, both of which can be biased or subjective. Our proposed research is intended to fill the gap between mental health care and data-driven decision-making, contributing to the betterment of mental health services.  Our proposed research is intended to fill the gap between mental health care and data-driven decision-making, contributing to the betterment of mental health service.
 
-# Contribution and Motivation
+# Motivation
 The [proposed project](https://www.overleaf.com/read/msgfkcfdhmdq) is well-situated within existing research yet offers a novel application of NLP techniques. As highlighted above, existing research on the efficacy of psychotherapy is outcome driven. Also, existing work has been limited to analyzing full-length therapy sessions. With online chatting platforms becoming the norm for easy counseling, we aim to focus on driving efficacy for chat-based therapy. We want to focus on ensuring a stronger alliance between the patient and therapist by leveraging NLP to quantify the various pillars of this alliance- **empathy**, **actionability**, **clarity**, **relevance**.
 
 
